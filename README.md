@@ -20,3 +20,5 @@ Start it up
 iex(1)> Identicon.main("How's your doggy?")
 :ok
 ```
+
+You should now see an output in the root directory of the folder
